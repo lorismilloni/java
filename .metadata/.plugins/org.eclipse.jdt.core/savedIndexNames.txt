@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+/home/lorismilloni/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+2617639548.index
+1865797976.index
+3049072872.index
+2266548611.index
