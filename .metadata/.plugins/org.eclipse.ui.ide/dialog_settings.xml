@@ -6,9 +6,13 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/lorismilloni/Downloads/src/atividadefinal"/>
+			<item value="/home/lorismilloni/work/unitins/01/algoritmos/exercicio01"/>
 			<item value="/home/lorismilloni/Downloads/UNITINS/algoritmos/aulatal"/>
 			<item value="/home/lorismilloni/Downloads/UNITINS/algoritmos/AvaliacaoAlg2"/>
 			<item value="/home/lorismilloni/Downloads/UNITINS/algoritmos/Correcao_Prova"/>
 		</list>
+	</section>
+	<section name="NewWizardAction">
 	</section>
 </section>
