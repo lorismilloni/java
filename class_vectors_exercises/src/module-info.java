@@ -5,5 +5,5 @@
  * @author lorismilloni
  *
  */
-module teste_hugo {
+module class_vectors_exercises {
 }
